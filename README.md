@@ -4,7 +4,7 @@ A professional business intelligence dashboard built with React, Tailwind CSS, a
 
 ## Live Demo
 
-[View Demo](https://analytics-dashboard-danny.vercel.app) <!-- Update after deploy -->
+[View Demo](https://analytics-dashboard-chi-bice.vercel.app)
 
 ## Screenshot
 
